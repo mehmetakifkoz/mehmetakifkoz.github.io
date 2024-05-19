@@ -44,8 +44,12 @@ sidebar:
       info:
         - item: Religion (Islam)
           link:
+
         - item: Risale-i Nur Collection
-          link:
+          link: http://www.erisale.com/
+
+        - item: Hybrid Calisthenics
+          link: https://www.hybridcalisthenics.com/
 
 career-profile:
     title: Career Profile
