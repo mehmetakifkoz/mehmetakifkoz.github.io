@@ -124,7 +124,7 @@ certifications:
           end: 05/09/2023
           organization: Corizo
           credentialid: UIN-CRZ4848
-          credentialurl: https://app.truscholar.io/profile?credId=650552e18476d90e2d460e35
+          credentialurl: app.truscholar.io/profile?credId=650552e18476d90e2d460e35
           credentialname: Truscholar
           details: |
             During my internship at CORIZO from, I gained practical experience in machine learning, covering various aspects of the field under the mentorship of Abin Varghese. The highlight of my internship was the Flight Ticket Price Predictor (FTPP) project, where I engaged in data cleaning, exploration, model building, and evaluation. This hands-on experience significantly complemented my academic knowledge, providing me with insights into real-world applications of machine learning.
@@ -133,7 +133,7 @@ certifications:
           end: 05/08/2023
           organization: Corizo
           credentialid: UIN-CRZ4848
-          credentialurl: https://app.truscholar.io/profile?credId=650552b78476d90e2d453608
+          credentialurl: app.truscholar.io/profile?credId=650552b78476d90e2d453608
           credentialname: Truscholar
           details: |
             During my Machine Learning training at Corizo, under the guidance of Data Scientist Abin Varghese, I underwent an extensive program covering fundamental concepts in machine learning and data science. The training began with an induction session, providing an overview of machine learning fundamentals. Following this, I received a brief introduction to machine learning, learned Python for Data Science, explored NumPy and pandas, and delved into specialized topics such as Linear Regression, Logistic Regression, K-Nearest Neighbors, and Clustering techniques including K-Means & DBSCAN. Each session contributed to building my expertise in machine learning, equipping me with practical skills for data analysis and modeling.
