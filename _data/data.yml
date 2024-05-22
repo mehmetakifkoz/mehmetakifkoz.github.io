@@ -119,43 +119,24 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Machine Learning Internship
+          start: 05/08/2023
+          end: 05/09/2023
+          organization: Corizo
+          credentialid: UIN-CRZ4848
+          credentialurl: https://app.truscholar.io/profile?credId=650552e18476d90e2d460e35
+          credentialname: Truscholar
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+            During my internship at CORIZO from, I gained practical experience in machine learning, covering various aspects of the field under the mentorship of Abin Varghese. The highlight of my internship was the Flight Ticket Price Predictor (FTPP) project, where I engaged in data cleaning, exploration, model building, and evaluation. This hands-on experience significantly complemented my academic knowledge, providing me with insights into real-world applications of machine learning.
+        - name: Machine Learning Training
+          start: 05/07/2023
+          end: 05/08/2023
+          organization: Corizo
+          credentialid: UIN-CRZ4848
+          credentialurl: https://app.truscholar.io/profile?credId=650552b78476d90e2d453608
+          credentialname: Truscholar
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            During my Machine Learning training at Corizo, under the guidance of Data Scientist Abin Varghese, I underwent an extensive program covering fundamental concepts in machine learning and data science. The training began with an induction session, providing an overview of machine learning fundamentals. Following this, I received a brief introduction to machine learning, learned Python for Data Science, explored NumPy and pandas, and delved into specialized topics such as Linear Regression, Logistic Regression, K-Nearest Neighbors, and Clustering techniques including K-Means & DBSCAN. Each session contributed to building my expertise in machine learning, equipping me with practical skills for data analysis and modeling.
 
 projects:
     title: Projects
