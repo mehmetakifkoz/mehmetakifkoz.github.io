@@ -120,10 +120,10 @@ certifications:
       title: Certifications
       list:
        - name: AWS Academy Graduate - AWS Academy Machine Learning Foundations
-          start:
+          start: 29/02/2024
           end: 06/06/2024
           organization: Amazon Web Services (AWS)
-          credentialid:
+          credentialid: 41ac33c8-1098-4256-9e4c-a44c3510bba1
           credentialurl: https://www.credly.com/badges/41ac33c8-1098-4256-9e4c-a44c3510bba1/public_url
           credentialname:  Amazon Web Services Training and Certification
           details: |
