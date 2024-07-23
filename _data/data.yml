@@ -122,12 +122,12 @@ certifications:
         - name: AWS Academy Graduate - AWS Academy Machine Learning Foundations
           start: 29/02/2024
           end: 06/06/2024
-          organization: Corizo
-          credentialid: 650552e18476d90e2d460e35
-          credentialurl: app.truscholar.io/profile?credId=650552e18476d90e2d460e35
-          credentialname: Truscholar
+          organization: Amazon Web Services (AWS)
+          credentialid: 41ac33c8-1098-4256-9e4c-a44c3510bba1
+          credentialurl: credly.com/badges/41ac33c8-1098-4256-9e4c-a44c3510bba1/public_url
+          credentialname:  Amazon Web Services Training and Certification
           details: |
-            During my internship at Corizo from, I gained practical experience in machine learning, covering various aspects of the field under the mentorship of Abin Varghese. The highlight of my internship was the Flight Ticket Price Predictor (FTPP) project, where I engaged in data cleaning, exploration, model building, and evaluation. This hands-on experience significantly complemented my academic knowledge, providing me with insights into real-world applications of machine learning.
+            This course provided an introduction to machine learning concepts and Amazon Web Services (AWS) cloud services for machine learning. I gained hands-on experience with Amazon SageMaker, a platform for building, training, and deploying machine learning models. The course also covered forecasting, computer vision, and natural language processing applications.
         - name: Machine Learning Internship
           start: 05/08/2023
           end: 05/09/2023
