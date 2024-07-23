@@ -125,7 +125,7 @@ certifications:
           organization: Amazon Web Services (AWS)
           credentialid: 41ac33c8-1098-4256-9e4c-a44c3510bba1
           credentialurl: credly.com/badges/41ac33c8-1098-4256-9e4c-a44c3510bba1/public_url
-          credentialname: Amazon Web Services Training and Certification
+          credentialname: AWS
           details: |
             This course provided an introduction to machine learning concepts and Amazon Web Services (AWS) cloud services for machine learning. I gained hands-on experience with Amazon SageMaker, a platform for building, training, and deploying machine learning models. The course also covered forecasting, computer vision, and natural language processing applications.
         - name: Machine Learning Internship
