@@ -151,25 +151,9 @@ projects:
     title: Projects
     intro: 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: YOGURT FERMENTATION MONITORING WITH IOT AND MACHINE LEARNING
+        link: drive.google.com/file/d/1CrYAOwg8wdZZC0iEhzG3kGV0NicBu9X5/view?usp=drivesdk
+        tagline: "This study investigates the potential of using temperature and electrical conductivity (EC) derived Total Dissolved Solids (TDS) measurements, to predict the pH value during yogurt fermentation. A device was developed to collect real-time data on pH, temperature, and TDS. Additionally, a user interface hosted on Amazon Lightsail was provided to display sensor values, enhancing accessibility and monitoring of the fermentation process. Experiments conducted using factory milk in a laboratory setting revealed a high degree of correlation between the collected TDS and pH values at identical temperature points. Data from these experiments were used to train a Long Short-Term Memory (LSTM) model, incorporating temperature and TDS as features and pH as target. The model was optimized using a Keras-based hyperparameter optimizer, which adjusted the network's layers and nodes. The LSTM model achieved a Mean Squared Error (MSE) of less than 0.026, indicating reliable performance in converting measured TDS and temperature data into pH predictions. This suggests that indirect, non-invasive pH measurements are possible with a special fermentation chamber."
 
 oss:
     title: OSS Contributions
