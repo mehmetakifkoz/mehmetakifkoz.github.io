@@ -137,7 +137,7 @@ skills:
         level: 35%
 
       - name: Image Processing
-      - level: 35%
+        level: 35%
 
       - name: Generative AI
         level: 20%
