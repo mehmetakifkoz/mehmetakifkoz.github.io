@@ -102,6 +102,10 @@ projects:
         link: https://drive.google.com/file/d/1CrYAOwg8wdZZC0iEhzG3kGV0NicBu9X5/view?usp=drivesdk
         tagline: "This study investigates the potential of using temperature and electrical conductivity (EC) derived Total Dissolved Solids (TDS) measurements, to predict the pH value during yogurt fermentation. A device was developed to collect real-time data on pH, temperature, and TDS. Additionally, a user interface hosted on Amazon Lightsail was provided to display sensor values, enhancing accessibility and monitoring of the fermentation process. Experiments conducted using factory milk in a laboratory setting revealed a high degree of correlation between the collected TDS and pH values at identical temperature points. Data from these experiments were used to train a Long Short-Term Memory (LSTM) model, incorporating temperature and TDS as features and pH as target. The model was optimized using a Keras-based hyperparameter optimizer, which adjusted the network's layers and nodes. The LSTM model achieved a Mean Squared Error (MSE) of less than 0.026, indicating reliable performance in converting measured TDS and temperature data into pH predictions. This suggests that indirect, non-invasive pH measurements are possible with a special fermentation chamber."
 
+      - title: MARS Web App
+        link: mehmetakifkoz.github.io/MARS-Web-App
+        tagline: Developed as part of the CENG3010 Computer Organization course, this project features a 32-bit MIPS simulator with a graphical user interface. The simulator provides real-time visualization of key components such as registers and memory, supports various instructions and branching behaviors, and effectively handles procedure calls. With 1KB of memory for data and instructions, the user-friendly GUI facilitates code execution, register observation, and memory inspection, offering a comprehensive tool for understanding and analyzing MIPS architecture.
+
 skills:
     title: Skills &amp; Proficiency
 
