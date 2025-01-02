@@ -114,16 +114,16 @@ skills:
         level: 75%
 
       - name: Python Programming
-        level: 70%
-
-      - name: Data Visualization
         level: 80%
 
+      - name: Data Visualization
+        level: 70%
+
       - name: Statistical Analysis
-        level: 40%
+        level: 55%
 
       - name: Web Development
-        level: 55%
+        level: 40%
 
       - name: Remote Collaboration
         level: 65%
