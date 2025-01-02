@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Mehmet Akif KÖZ
-    tagline: Computer Scientist
+    tagline: Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -113,20 +113,17 @@ skills:
       - name: Machine Learning
         level: 75%
 
-      - name: Cloud Computing
-        level: 40%
-
-      - name: Python
+      - name: Python Programming
         level: 70%
 
-      - name: C/C++
+      - name: Data Visualization
         level: 80%
 
-      - name: HTML, CSS, JavaScript
-        level: 55%
-
-      - name: Relational (SQL) Databases
+      - name: Statistical Analysis
         level: 40%
 
-      - name: Linux
-        level: 25%
+      - name: Web Development
+        level: 55%
+
+      - name: Remote Collaboration
+        level: 65%
